@@ -36,12 +36,12 @@ Download from: [https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7
 
 ## Fine-tuned Checkpoints provided by this project
 
-Download from [here]()
+Download from [here](https://drive.google.com/file/d/1n_ulL1P5OxeifuJXtf2fB_ws0CC_kJsZ/view?usp=sharing)
 
 
 ## Self collected dataset
 
-Download from [here](https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0)
+Download from [here](https://drive.google.com/drive/folders/1EIYq1BFCNPC-V9YxkMXUYiLxPLvKtSE1?usp=sharing)
 
 
 
